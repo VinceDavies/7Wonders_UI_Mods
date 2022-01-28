@@ -1,0 +1,9 @@
+.player_board_wonder{
+    transform: scale(1.05);
+}
+
+.player_score{
+    transform: scale(1.4);
+    font-weight: bolder;
+    margin-left: 100px;
+}
